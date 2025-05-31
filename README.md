@@ -107,8 +107,7 @@ The final model was chosen based on balanced accuracy and AUC score with special
 ## 📬 Author
 
 **Salman Khan**  
-M.Tech Data Science & Engineering, BITS Pilani  
-Supervised by: Mr. Ganesh Balu Gholap, VP, Axis Bank Ltd.
+M.Tech, BITS Pilani  
 
 ---
 
